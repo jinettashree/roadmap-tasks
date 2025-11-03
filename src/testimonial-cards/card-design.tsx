@@ -9,7 +9,7 @@ return(
             <Col md={4} key={index} className='mb=4'>
                 <Card className="shadow" 
                 style={{
-                backgroundImage: 'linear-gradient(to bottom, #f5f5f5f5 25%, #000000ff 75%)'
+                backgroundImage: 'linear-gradient(to bottom, #f5f5f5f5 55%, #000000ff 45%)'
                 }}>
                     <Card.Body>
                         <Row>
