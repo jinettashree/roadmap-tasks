@@ -7,8 +7,9 @@ import './App.css';
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 //import Fields from './forms/fields';  
 //import SinglePageCv from './single-pagecv/singlePageCv';
-import HoverButton from './tool-tip/page';
-
+//import HoverButton from './tool-tip/page';
+//import CardDesign from './testimonial-cards/card-design';
+import Cookie from './cookie-consent/cookie';
 function App() {
 
   return (
@@ -23,7 +24,9 @@ function App() {
     // </Router>
     //<Fields/>
     //<SinglePageCv />
-    <HoverButton />
+    //<HoverButton />
+    //<CardDesign/>
+    <Cookie />
   )
 }
 
